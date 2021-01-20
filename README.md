@@ -11,7 +11,7 @@
 
 **Links:**
 * [Blog]
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
+* [LinkedIn](www.linkedin.com/in/maxwell-avila-paparelli-69201b135)
 * [Medium]
 
 
