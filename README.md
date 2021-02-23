@@ -3,7 +3,7 @@
 </p>
 
 # Maxwell Avila Paparelli
-<sub>*Data Scientist* at project manegement Center</sub>
+
 
 **Background in:** Python, Machine Learning, Power BI
 
