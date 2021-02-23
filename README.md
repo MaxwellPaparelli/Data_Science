@@ -9,7 +9,7 @@
 
 **Links:**
 * [Blog]
-* [LinkedIn](linkedin.com/in/maxwell-avila-paparelli-69201b135)
+* [LinkedIn] linkedin.com/in/maxwell-avila-paparelli-69201b135
 * [Medium]
 
 
