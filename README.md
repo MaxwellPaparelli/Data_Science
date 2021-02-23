@@ -14,3 +14,6 @@
 
 
 ## Projetos:
+
+* Utilizando Data Science para conseguir mais "corridas" no Uber: 
+* Ajudando a minimizar os índices de acidentes de aeronaves utilizando Data Science: [Clique aqui](https://www.linkedin.com/pulse/ajudando-minimizar-os-%C3%ADndices-de-acidentes-aeronaves-avila-paparelli?trk=portfolio_article-card_title)
