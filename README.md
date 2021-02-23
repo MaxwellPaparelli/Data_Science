@@ -16,4 +16,4 @@
 ## Projetos:
 
 * Utilizando Data Science para conseguir mais "corridas" no Uber: [Clique aqui](https://www.linkedin.com/pulse/como-conseguir-mais-corridas-com-o-uber-em-new-york-avila-paparelli/?trackingId=pe17W94CSS2iv4jM2iPqpA%3D%3D) - Para ver o código fonte [Clique aqui](https://github.com/MaxwellPaparelli/Data_Science_Uber)
-* Ajudando a minimizar os índices de acidentes de aeronaves utilizando Data Science: [Clique aqui](https://www.linkedin.com/pulse/ajudando-minimizar-os-%C3%ADndices-de-acidentes-aeronaves-avila-paparelli?trk=portfolio_article-card_title)
+* Ajudando a minimizar os índices de acidentes de aeronaves utilizando Data Science: [Clique aqui](https://www.linkedin.com/pulse/ajudando-minimizar-os-%C3%ADndices-de-acidentes-aeronaves-avila-paparelli?trk=portfolio_article-card_title) - Para ver o código fonte [Clique aqui](https://github.com/MaxwellPaparelli/Data_Science_Aviacao)
