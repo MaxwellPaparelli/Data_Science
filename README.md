@@ -26,5 +26,5 @@ Sou Analista atuando com ênfase em BI com experiência em Power BI e SQL Server
 Atualmente estou estudando Data Science na escola de Data Science do Sigmoidal [Clique aqui para conhecer](https://escola.sigmoidal.ai/) para poder atuar na área como um Data Scientist de fato. Estou aplicando o que aprendo em meus projetos na empresa onde trabalho e em cases reais, conforme projetos informados acima, para gerar experiência e um portifolio na área.
 
 *  Técnico em Informática com ênfase em programação - Centro Paula Souza ETEC
-*  Graduação Analise e Desenvolvimento de Sistemas - Universidade Paulista
+*  Graduação em Analise e Desenvolvimento de Sistemas - Universidade Paulista
 *  Inglês intermediário (autoditada)
