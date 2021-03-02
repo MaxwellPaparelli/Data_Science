@@ -20,7 +20,9 @@
 
 ## Sobre mim:
 De forma gerar sou apaixonado e tenho orgulho de trabalhar com tecnologia porque sei que meu trabalho impacta muito o resultado de uma empresa e também através dela conseguimos afetar e mudar o mundo para melhor de alguma forma.
+
 Sou Analista atuando com ênfase em BI com experiência em Power BI e SQL Server, aprendi Power BI de forma autoditada e praticando na minha área de atuação, atualmente além de analista dou dicas semanais de Power BI para os colaboradores da empresa onde trabalho.
+
 Atualmente estou estudando Data Science na escola de Data Science do Sigmoidal [Clique aqui para conhecer](https://escola.sigmoidal.ai/) para poder atuar na área como um Data Scientist de fato. Estou aplicando o que aprendo em meus projetos na empresa onde trabalho e em cases reais, conforme projetos informados acima, para gerar experiência e um portifolio na área.
 
 *  Técnico em Informática com ênfase em programação - Centro Paula Souza ETEC
