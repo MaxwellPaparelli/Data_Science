@@ -19,7 +19,7 @@
 
 
 ## Sobre mim:
-De forma geral sou apaixonado e tenho orgulho de trabalhar com tecnologia porque sei que meu trabalho impacta muito o resultado de uma empresa e também através dela conseguimos afetar e mudar o mundo para melhor de alguma forma.
+De forma geral sou apaixonado e tenho muito orgulho de trabalhar com tecnologia porque sei que meu trabalho impacta muito o resultado de uma empresa e também através dela conseguimos afetar e mudar o mundo para melhor de alguma forma.
 
 Sou Analista atuando com ênfase em BI com experiência em Power BI e SQL Server, aprendi Power BI de forma autoditada e praticando na minha área de atuação, atualmente além de analista dou dicas semanais de Power BI para os colaboradores da empresa onde trabalho.
 
