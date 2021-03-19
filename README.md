@@ -9,6 +9,7 @@
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/maxwell-avila-paparelli-69201b135)
+* [Medium](https://maxwellpaparelli.medium.com/)
 
 
 ## Projetos:
@@ -17,6 +18,9 @@
 * Ajudando a minimizar os índices de acidentes de aeronaves utilizando Data Science: [Clique aqui](https://www.linkedin.com/pulse/ajudando-minimizar-os-%C3%ADndices-de-acidentes-aeronaves-avila-paparelli?trk=portfolio_article-card_title) - Para ver o código fonte [Clique aqui](https://github.com/MaxwellPaparelli/Data_Science_Aviacao)
 * Ajudando a diminuir os índices de criminalidade em São Paulo utilizando Data Science: [Clique aqui](https://www.linkedin.com/pulse/ajudando-diminuir-%25C3%25ADndices-de-crimes-com-data-science-avila-paparelli/?trackingId=lUPx7w6wQ9OnSXKZ8C9L9g%3D%3D) - Para ver o código fonte [Clique aqui](https://github.com/MaxwellPaparelli/Data_Science_Indice_Criminalidade_SP)
 
+## Artigos no Medium:
+
+* Conseito e pratica de Time Series (Séries Temporais) e técnicas de Forecasting utilizando ARIMA: [Clique aqui](https://medium.com/@cienciaedadosbi/time-series-s%C3%A9ries-temporais-com-python-f4e74fd45b0b)
 
 ## Sobre mim:
 De forma geral sou apaixonado e tenho muito orgulho de trabalhar com tecnologia porque sei que meu trabalho impacta muito o resultado de uma empresa e também através dela conseguimos afetar e mudar o mundo para melhor de alguma forma.
