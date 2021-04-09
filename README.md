@@ -13,6 +13,7 @@
 
 
 ## Projetos:
+* Machine Learning para detecção de Câncer de Mama: [Clique aqui para ver](https://github.com/MaxwellPaparelli/Machine_Learning/blob/main/Machine_learning_Outr_Rosa.ipynb)
 * Machine Learning para detecção de Fraudes em cartão de crédito: [Clique aqui para ver](https://github.com/MaxwellPaparelli/Machine_Learning/blob/main/Fraude_em_Cart%C3%A3o_de_Credito_Machine_Learning.ipynb)
 * Machine Learning para prever AVC: [Clique aqui para ver](https://github.com/MaxwellPaparelli/Machine_Learning/blob/main/Mach_Lean_PrevisaoAvc.ipynb)
 * Utilizando Data Science para conseguir mais "corridas" no Uber: [Clique aqui](https://www.linkedin.com/pulse/como-conseguir-mais-corridas-com-o-uber-em-new-york-avila-paparelli/?trackingId=pe17W94CSS2iv4jM2iPqpA%3D%3D) - Para ver o código fonte [Clique aqui](https://github.com/MaxwellPaparelli/Data_Science_Uber)
