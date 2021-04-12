@@ -25,7 +25,7 @@
 ## Artigos no Medium:
 
 * Conceito e pratica de Time Series (Séries Temporais) e técnicas de Forecasting utilizando ARIMA: [Clique aqui](https://medium.com/@cienciaedadosbi/time-series-s%C3%A9ries-temporais-com-python-f4e74fd45b0b)
-* Conceito de Machine Learning Parte 1: [CLique aqui](https://maxwellpaparelli.medium.com/machine-learning-parte-1-aprendizado-supervisionado-b974dc03dd9)
+* Conceito de Machine Learning Parte 1: [Clique aqui](https://maxwellpaparelli.medium.com/machine-learning-parte-1-aprendizado-supervisionado-b974dc03dd9)
 
 ## Sobre mim:
 De forma geral sou apaixonado e tenho muito orgulho de trabalhar com tecnologia porque sei que meu trabalho impacta muito o resultado de uma empresa e também através dela conseguimos afetar e mudar o mundo para melhor de alguma forma.
