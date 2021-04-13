@@ -36,4 +36,4 @@ Atualmente estou estudando Data Science na escola de Data Science do Sigmoidal [
 
 *  Técnico em Informática com ênfase em programação - Centro Paula Souza ETEC
 *  Graduação em Analise e Desenvolvimento de Sistemas - Universidade Paulista
-*  Inglês intermediário (autoditada)
+*  Inglês técnico (autoditada)
